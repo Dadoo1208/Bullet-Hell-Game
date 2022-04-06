@@ -68,3 +68,12 @@ h4  {
   </head>
   <body>
 
+  .sheriff{
+    width: 200px;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    /* forwards */
+    animation: birdAnim 7s infinite;
+    /* animation-timing-function: linear; */
+  }
