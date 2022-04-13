@@ -26,15 +26,22 @@ h4  {
 h5  {
   position: absolute;
   left: 27%;
-  top: 10%;
+  top: 14%;
   font-family: 'VT323', monospace;
   font-size: 100px;
   text-align: center;
 } 
 
+.cool {
+
+width: 1425px;
+height: 800px;
+
+}
+
 .button {
     border-radius: 4px;
-    background-color: #20639b;
+    background-color: #db8d17;
     border: none;
     color: #FFFFFF;
     text-align: center;
@@ -47,6 +54,8 @@ h5  {
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
+    font-family: 'VT323', monospace;
+    text-align: center;
   }
   
   .button span {
