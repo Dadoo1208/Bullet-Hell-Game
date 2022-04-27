@@ -106,24 +106,17 @@ height: 800px;
     right: 0;
   }
   .sheriff{
-    width: 170px;
+    width: 200px;
     position: absolute;
-    left: 80%;
-    top: 45%;
+    left: 10%;
+    top: 40%;
   }
 
 .bullet{
   width: 60px;
   position: absolute;
-  left: 10%;
+  left: 80%;
   top: 58%;
-  transform: scale(-1)
+  
 }
 
-.bullet2{
-  width: 60px;
-  position: absolute;
-  left: 20%;
-  top: 58%;
-  transform: scale(-1)
-}
