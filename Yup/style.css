@@ -105,17 +105,10 @@ height: 800px;
     opacity: 1;
     right: 0;
   }
-  </style>
-  </head>
-  <body>
-
   .sheriff{
     width: 200px;
     position: absolute;
-    left: 20%;
-    top: 10%;
-    /* forwards */
-    animation: birdAnim 7s infinite;
-    /* animation-timing-function: linear; */
+    left: 80%;
+    top: 37%;
   }
 
