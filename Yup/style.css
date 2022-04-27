@@ -78,7 +78,7 @@ height: 800px;
     margin: 5px;
     font-family: 'VT323', monospace;
     text-align: center;
-    font-family: ;
+    font-family:
   }
   
   .button span {
@@ -106,9 +106,24 @@ height: 800px;
     right: 0;
   }
   .sheriff{
-    width: 200px;
+    width: 170px;
     position: absolute;
     left: 80%;
-    top: 37%;
+    top: 45%;
   }
 
+.bullet{
+  width: 60px;
+  position: absolute;
+  left: 10%;
+  top: 58%;
+  transform: scale(-1)
+}
+
+.bullet2{
+  width: 60px;
+  position: absolute;
+  left: 20%;
+  top: 58%;
+  transform: scale(-1)
+}
